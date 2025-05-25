@@ -1,1 +1,2 @@
 # homework2_softwareDesign
+Malova Olesia
